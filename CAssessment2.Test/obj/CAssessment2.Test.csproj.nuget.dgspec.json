@@ -1,38 +1,44 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\Projects\\Interview\\CAssessment2\\CAssessment2.Test\\CAssessment2.Test.csproj": {}
+    "C:\\Users\\Administrator\\Downloads\\sayTG\\assesstment\\CAssessment2.Test\\CAssessment2.Test.csproj": {}
   },
   "projects": {
-    "C:\\Development\\Projects\\Interview\\CAssessment2\\CAssessment2.Test\\CAssessment2.Test.csproj": {
+    "C:\\Users\\Administrator\\Downloads\\sayTG\\assesstment\\CAssessment2.Test\\CAssessment2.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Projects\\Interview\\CAssessment2\\CAssessment2.Test\\CAssessment2.Test.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\sayTG\\assesstment\\CAssessment2.Test\\CAssessment2.Test.csproj",
         "projectName": "CAssessment2.Test",
-        "projectPath": "C:\\Development\\Projects\\Interview\\CAssessment2\\CAssessment2.Test\\CAssessment2.Test.csproj",
-        "packagesPath": "C:\\Users\\happy\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Projects\\Interview\\CAssessment2\\CAssessment2.Test\\obj\\",
+        "projectPath": "C:\\Users\\Administrator\\Downloads\\sayTG\\assesstment\\CAssessment2.Test\\CAssessment2.Test.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrator\\Downloads\\sayTG\\assesstment\\CAssessment2.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\happy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Administrator\\Downloads\\sayTG\\cbt": {},
+          "C:\\Users\\Todays Solutions\\Documents\\IDAM\\Premier2.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Development\\Projects\\Interview\\CAssessment2\\CAssessment2\\CAssessment2.csproj": {
-                "projectPath": "C:\\Development\\Projects\\Interview\\CAssessment2\\CAssessment2\\CAssessment2.csproj"
+              "C:\\Users\\Administrator\\Downloads\\sayTG\\assesstment\\CAssessment2\\CAssessment2.csproj": {
+                "projectPath": "C:\\Users\\Administrator\\Downloads\\sayTG\\assesstment\\CAssessment2\\CAssessment2.csproj"
               }
             }
           }
@@ -79,31 +85,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Development\\Projects\\Interview\\CAssessment2\\CAssessment2\\CAssessment2.csproj": {
+    "C:\\Users\\Administrator\\Downloads\\sayTG\\assesstment\\CAssessment2\\CAssessment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Projects\\Interview\\CAssessment2\\CAssessment2\\CAssessment2.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\sayTG\\assesstment\\CAssessment2\\CAssessment2.csproj",
         "projectName": "CAssessment2",
-        "projectPath": "C:\\Development\\Projects\\Interview\\CAssessment2\\CAssessment2\\CAssessment2.csproj",
-        "packagesPath": "C:\\Users\\happy\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Projects\\Interview\\CAssessment2\\CAssessment2\\obj\\",
+        "projectPath": "C:\\Users\\Administrator\\Downloads\\sayTG\\assesstment\\CAssessment2\\CAssessment2.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrator\\Downloads\\sayTG\\assesstment\\CAssessment2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\happy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Administrator\\Downloads\\sayTG\\cbt": {},
+          "C:\\Users\\Todays Solutions\\Documents\\IDAM\\Premier2.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -142,7 +154,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }

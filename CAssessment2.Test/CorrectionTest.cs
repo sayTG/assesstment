@@ -1,5 +1,6 @@
 using CAssessment2.Services;
 using NUnit.Framework;
+using System;
 
 namespace CorrectionTest
 {
@@ -28,7 +29,6 @@ namespace CorrectionTest
         {
             // Arrange & Act
             var result = _correctionValidation.MyAtoi(command);
-
             // Assert
             Assert.AreEqual(expectedResult, result);
         }
